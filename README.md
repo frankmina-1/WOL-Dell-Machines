@@ -16,3 +16,5 @@
       • Dell business-class system with supported BIOS
       • PowerShell run as Administrator
       • VC++ 2015–2019 x64 Redistributable installed (required by DellBIOSProvider)
+      • DellBiosProvider and NuGet Modules in an available shared drive. 
+        
